@@ -31,8 +31,8 @@ A responsive landing page focusing on a modern **header + hero section UI**, bui
 ## Project Structure
 
 
-├── index.html # Contains Header + Hero section markup
-└── style.css # Styling, variables, and responsive rules
+- index.html # Contains Header + Hero section markup
+- style.css # Styling, variables, and responsive rules
 
 
 ---

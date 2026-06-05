@@ -4,9 +4,9 @@ A responsive landing page focusing on a modern **header + hero section UI**, bui
 
 ---
 
-## Live Preview
+## Live Preview : https://homework-5-styles.netlify.app/
 
-<img width="1062" height="1783" alt="image" src="https://github.com/user-attachments/assets/d6c7e1c9-4bf1-4222-83d2-0665aaeb6a20" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/d6c7e1c9-4bf1-4222-83d2-0665aaeb6a20" />
 
 
 ---
